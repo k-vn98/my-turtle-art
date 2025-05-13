@@ -2,7 +2,6 @@
 Check out the official docs here: https://docs.python.org/3/library/turtle.html
 """
 # I HEREBY DUB THEE : The Hope In An Abyss
-#Name: Kevin Gao
 
 
 
